@@ -6,7 +6,7 @@ gsw==3.6.19
 matplotlib==3.7.2
 numpy==1.24.3
 pandas==2.0.3
-scipy==1.15.2
+scipy
 seaborn==0.13.2
 timm==0.6.11
 torch==1.12.0

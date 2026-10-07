@@ -24,3 +24,10 @@ try.ipynb
 
 run_jupyter.sh
 
+# Added for validation:
+
+fig/
+
+predictions_init_with_godas/
+
+*.zarr
